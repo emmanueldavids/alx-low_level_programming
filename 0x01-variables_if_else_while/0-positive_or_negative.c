@@ -3,14 +3,18 @@
 #include <stdlib.h>
 
 /**
- * more headers goes there 
+ * main - determine if number is positive or negative 
  *
- *
- * betty style doc for function main goes there 
+ * Description: program will assign a random number to the variable in each time
+ * it is executed.
+ * 
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 int n;
+
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
