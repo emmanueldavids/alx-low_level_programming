@@ -13,7 +13,8 @@ int main(void)
 char ch;
 int b16;
 
-for (b16 = '0'; b16 <= '9'; b16++){
+for (b16 = '0'; b16 <= '9'; b16++)
+{
 putchar(b16);
 }
 for (ch = 'a'; ch <= 'f'; ch++) 
