@@ -10,10 +10,10 @@
 
 int main(void)
 {
-  char lowercase;
+char lowercase;
 
-  for(lowercase='a'; lowercase <= 'z'; lowercase++)
-    putchar(lowercase);
-  putchar('\n');
-  return (0);
+for(lowercase ='a'; lowercase <= 'z'; lowercase++)
+putchar(lowercase);
+putchar('\n');
+return (0);
 }
