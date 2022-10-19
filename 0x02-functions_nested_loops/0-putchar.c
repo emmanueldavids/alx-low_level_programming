@@ -9,6 +9,14 @@
 
 int main(void)
 {
-printf("_putchar\n");
+  char text[] = " _putchar";
+  int j;
+
+  for (j = 0; j <= 7; j++)
+  {
+    _putchar(text[]);
+  }
+  _putchar('\n');
+
 return (0);
 }
