@@ -3,6 +3,8 @@
 /**
  * main - check the code
  *
+ * Description: print_alphabet computes to the lower letters
+ *
  * Return: Always 0.
  */
 
