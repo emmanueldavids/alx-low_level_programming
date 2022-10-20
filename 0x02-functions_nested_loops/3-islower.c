@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * _islower - function name
  *
- * Return: Always 0.
+ * Description: function uses _putchar function to print
+ *
+ * Return: 1 if is lowercase or 0 if is uppercase.
  */
 int _islower(int c)
 {
