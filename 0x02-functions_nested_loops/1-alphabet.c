@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * print_alphabet - function name
  *
  * Description: print_alphabet computes to the lower letters
  *
- * Return: Always 0.
+ * no return value.
  */
 
 void print_alphabet(void)
