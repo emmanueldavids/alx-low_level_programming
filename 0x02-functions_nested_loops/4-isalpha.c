@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Return: Always 0.
+ * _isalpha - the function name
+ * @c: describes the code parameter
+ * Return: will return an integer
  */
 int _isalpha(int c)
 {
