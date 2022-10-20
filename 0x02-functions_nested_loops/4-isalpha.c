@@ -15,7 +15,7 @@ for (low = 'a'; low <= 'z'; low++)
 for (up = 'A'; up <= 'Z'; up++)
 {
 if (c == low || c == up)
-  isletter = 1;
+isletter = 1;
 }
 }
 return (isletter);
