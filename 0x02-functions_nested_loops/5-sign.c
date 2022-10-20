@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - check the code.
- *
+ * print_sign - check the code.
+ * @n : variable n
  * Return: Always 0.
  */
 
