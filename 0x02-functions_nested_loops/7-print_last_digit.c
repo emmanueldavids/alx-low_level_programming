@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
+ * print_last_digit - check the code
+ *@r: initial variable
  * Return: Always 0.
  */
 
