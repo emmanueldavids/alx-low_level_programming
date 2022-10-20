@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * print alphabet x10 - function name.
  *
- * Return: Always 0.
+ * no return statement
  */
 void print_alphabet_x10(void)
 {
