@@ -3,6 +3,8 @@
 /**
  * print alphabet x10 - function name.
  *
+ * Description: print_alphabet computes to lowercase letters
+ *
  * no return statement
  */
 void print_alphabet_x10(void)
