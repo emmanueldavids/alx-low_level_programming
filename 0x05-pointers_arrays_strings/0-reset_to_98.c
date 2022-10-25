@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * Description: take pointer to an int and updates the value it points to to 98
- *  @n : a pointer
- * Return: Void, Basically nothing is returned
+ * reset_int_98 - take a pointer and update it to 98
+ * @n : a pointer
+ * Return: 0.
  */
 void reset_to_98(int *n)
 {
