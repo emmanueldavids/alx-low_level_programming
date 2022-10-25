@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
-#include <string.h>
 
 /**
  * Description: Reverse the string
  * @s: string
+ * Return: 0.
  */
 void print_rev(char *s)
 {
@@ -18,6 +18,6 @@ for (x -= 0; x >= 0; x--)
 {
 _putchar(s[x]);
 }
-putchar('\n');
+_putchar('\n');
 
 }
