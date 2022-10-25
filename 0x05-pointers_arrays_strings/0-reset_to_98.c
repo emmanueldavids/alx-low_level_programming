@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * Discription: take pointer to an int and updates the value it points to to 98
+ * Description: take pointer to an int and updates the value it points to to 98
  *  @n : a pointer
  * Return: Void, Basically nothing is returned
  */
