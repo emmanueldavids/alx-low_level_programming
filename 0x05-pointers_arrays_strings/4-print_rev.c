@@ -2,22 +2,22 @@
 #include <stdio.h>
 
 /**
- * Description: Reverse the string
- * @s: string
- * Return: 0.
+ * print_rev - the function name
+ * @s: the parameter name
+ * Return: returns nothing
  */
 void print_rev(char *s)
 {
+int c;
 
-int x;
-while (s[x] != '\0')
+while (s[c] != '\0')
 {
-x++;
+c++;
 }
-for (x -= 0; x >= 0; x--)
+
+for (c -= 0; c >= 0; c--)
 {
-_putchar(s[x]);
+_putchar(s[c]);
 }
 _putchar('\n');
-
 }
