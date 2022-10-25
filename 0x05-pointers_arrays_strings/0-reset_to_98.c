@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * reset_int_98 - take a pointer and update it to 98
+ * Description: reset_to_98 - take apointer and update it to 98
  * @n : a pointer
  * Return: 0.
  */
