@@ -3,21 +3,23 @@
 #include <stdlib.h>
 #include <time.h>
   
-// Function to randomly generates password
-// of length N
+/**Function to randomly generates password
+ * of length N
+ */
 void randomPasswordGeneration(int N)
 {
-    // Initialize counter
     int i = 0;
   
     int randomizer = 0;
   
-    // Seed the random-number generator
-    // with current time so that the
-    // numbers will be different every time
+    /**
+     * Seed the random-number generator
+     * with current time so that the
+     * numbers will be different every time
+     */
     srand((unsigned int)(time(NULL)));
-  
-    // Array of small alphabets
+    
+    //Array of small alphabets
     char letter[] = "abcdefghijklmnopqrstuvwxyz";
   
     // Array of capital alphabets
