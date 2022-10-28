@@ -9,15 +9,15 @@ int main(void)
 {
   print_numbers(98);
   _putchar('\n');
-  print_number(402);
+  print_numbers(402);
   _putchar('\n');
-  print_number(1024);
+  print_numbers(1024);
   _putchar('\n');
-  print_number(0);
+  print_numbers(0);
   _putchar('\n');
-  print_number(-98);
+  print_numbers(-98);
   _putchar('\n');
-  print_number(-987654321);
+  print_numbers(-987654321);
   _putchar('\n');
   return (0);
 }
