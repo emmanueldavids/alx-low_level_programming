@@ -2,8 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_buffer - Prints a buffer 10 bytes at a time
- * @b: The buffer to be printed.                             * @size: The number of bytes to be printed from the buffer.
+ * Description @b: The buffer to be printed.
+ * @size: The number of bytes to be printed from the buffer
+ * Return: 0
  */
 void print_buffer(char *b, int size)
 {
