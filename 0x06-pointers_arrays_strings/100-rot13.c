@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * rot13 - check the code
+ * Description: rot13 - check the code
  *
  * Return: Always 0.
  */
