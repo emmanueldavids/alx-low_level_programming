@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 /**
- * Description @b: The buffer to be printed.
+ * Description: Print_buffer - print a buffer
+ * @b: The buffer to be printed.
  * @size: The number of bytes to be printed from the buffer
  * Return: 0
  */
